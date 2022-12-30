@@ -14,3 +14,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000)" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants" />
+</div>
