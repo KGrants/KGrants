@@ -11,3 +11,5 @@
   <img src="https://komarev.com/ghpvc/?username=KGrants&style=flat-square&color=blue" alt=""/>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000)](https://git.io/streak-stats)
+
