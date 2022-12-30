@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/251b88f5-8bbb-4a88-aaca-118ec4485c78.jfif" width="150"/>
+  <img src="https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/251b88f5-8bbb-4a88-aaca-118ec4485c78.jfif?w=1920" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/karlisgrants/">
