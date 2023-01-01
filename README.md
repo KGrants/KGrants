@@ -8,9 +8,10 @@
   <a href="https://www.codingame.com/profile/cc87f6e9480d6282fc64ba583f66c6b65528705">
     <img src="https://img.shields.io/badge/-%20CodinGame-yellow" alt="Codingame Badge"/>
 </div>
-
+<div align="center">
 ### GitHub Stats
-<div align="center"><img style="height: auto; width: 40%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" /></div>
+<img style="height: auto; width: 40%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" /></div>
 
+<div align="center">
 ### GitHub Languages
-<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" /></div>
