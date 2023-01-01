@@ -10,7 +10,7 @@
 </div>
 
 ### GitHub Stats
-<div><img style="height: auto; width: 40%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" /></div>
+<div align="center"><img style="height: auto; width: 40%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" /></div>
 
 ### GitHub Languages
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" /></div>
+<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" /></div>
