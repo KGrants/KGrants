@@ -19,3 +19,24 @@
 ### GitHub Languages
 <br><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" /></div>
 <br>
+  
+## Who am I?
+```python
+class WhoAmI:
+ 	user = 'Karlis Grants'
+		current_work = '2nd Line of Support'
+		hobbies = [
+				'Basketball',
+				'Running',
+				'Reading',
+				'Learning C# and Python'
+			]
+	
+	def getCity():
+		return Riga_Latvia()
+	
+	def Ambitions():
+		LearnToCode()
+		RaiseGreatKids()
+		BeAwesome()
+ ```
