@@ -10,9 +10,10 @@
 </div>
   
 <div align="center">
-<br><img style="height: auto; width: 40%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" /></div>
-<br><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" /></div>
-<br>
+<img style="height: auto; width: 40%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" />
+</div>
+
   
 ## Who am I?
 ```C#
