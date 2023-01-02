@@ -8,35 +8,28 @@
   <a href="https://www.codingame.com/profile/cc87f6e9480d6282fc64ba583f66c6b65528705">
     <img src="https://img.shields.io/badge/-%20CodinGame-yellow" alt="Codingame Badge"/>
 </div>
-<br>
-<br>
-<div align="center">
-### GitHub Stats
-<br><img style="height: auto; width: 40%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" /></div>
-<br>
   
 <div align="center">
-### GitHub Languages
+<br><img style="height: auto; width: 40%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" /></div>
 <br><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" /></div>
 <br>
   
 ## Who am I?
-```python
-class WhoAmI:
- 	user = 'Karlis Grants'
-		current_work = '2nd Line of Support'
-		hobbies = [
-				'Basketball',
-				'Running',
-				'Reading',
-				'Learning C# and Python'
-			]
-	
-	def getCity():
-		return Riga_Latvia()
-	
-	def Ambitions():
-		LearnToCode()
-		RaiseGreatKids()
-		BeAwesome()
+```C#
+class WhoAmI
+{
+ 	public string 	user 		= "KGrants" 				{get;}
+	public string 	current_work 	= "2nd Line of Fintech App Support"	{get; set;}
+	public string 	location	= "Riga_Latvia"				{get;}
+	public string[] hobbies 	= new string[] {"Basketball",
+						"Running",
+						"Reading",
+						"Learning C# and Python"}	{get;}
+	public string[] languages 	= new string[] {"Latvian",
+						"English",
+						"Russian"
+						"SQL",
+						"C#",
+						"Python"}			{get;}
+}
  ```
