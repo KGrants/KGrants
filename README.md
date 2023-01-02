@@ -24,7 +24,7 @@ class WhoAmI
 						"Russian"
 						"SQL",
 						"C#",
-						"Python"}			{get;}
+						"Python"}			{get; set;}
 }
  ```
 <div align="center">
