@@ -21,6 +21,6 @@ class WhoAmI
 }
  ```
 <div align="center">
-<img style="height: auto; width: 50%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" />
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" />
+<img style="height: auto; width: 49%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KGrants&theme=dark&background=000000" />
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGrants&theme=radical&layout=compact" />
 </div>
