@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/KGrants/KGrants/blob/main/Logo JPG.jpg">
+  <img src="https://github.com/KGrants/KGrants/blob/main/Logo.jpg">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/karlisgrants/">
