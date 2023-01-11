@@ -5,19 +5,19 @@
 ```C#
 class WhoAmI
 {
- 	public string 	user 		= "KGrants" 				{get;}
-	public string 	current_work 	= "2nd Line of Fintech App Support"	{get; set;}
-	public string 	location	= "Riga_Latvia"				{get;}
-	public string[] hobbies 	= new string[] {"Basketball",
-						"Running",
-						"Reading",
-						"Learning C# and Python"}	{get;}
-	public string[] languages 	= new string[] {"Latvian",
-						"English",
-						"Russian"
-						"SQL",
-						"C#",
-						"Python"}			{get; set;}
+	public string 	user 		{get;}      = "KGRANTS";
+	public string 	current_work 	{get; set;} = "2nd Line of Fintech App Support";
+	public string 	location	{get;}      = "Riga_Latvia";
+	public string[] hobbies 	{get;}      = new string[] {"Basketball",
+						                    "Running",
+                                                                    "Reading",
+                                                                    "Learning C# and Python"};
+	public string[] languages 	{get; set;} = new string[] {"Latvian",
+                                                                    "English",
+                                                                    "Russian",
+                                                                    "SQL",
+                                                                    "C#",
+                                                                    "Python"};
 }
  ```
 <div align="center">
