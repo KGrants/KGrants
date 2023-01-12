@@ -11,11 +11,13 @@ class WhoAmI
 	public string[] hobbies 	{get;}      = new string[] {"Basketball",
 						                    "Running",
                                                                     "Reading",
-                                                                    "Learning C# and Python"};
+								    "Video Games"
+								    "Board Games"
+                                                                    "Programming"};
 	public string[] languages 	{get; set;} = new string[] {"Latvian",
                                                                     "English",
-                                                                    "Russian",
-                                                                    "SQL",
+                                                                    "Russian",};
+	public string[] programming  	{get; set;} = new string[] {"SQL",
                                                                     "C#",
                                                                     "Python"};
 }
