@@ -11,8 +11,8 @@ class WhoAmI
 	public string[] hobbies 	{get;}      = new string[] {"Basketball",
 						                    "Running",
                                                                     "Reading",
-								    "Video Games"
-								    "Board Games"
+								    "Video Games",
+								    "Board Games",
                                                                     "Programming"};
 	public string[] languages 	{get; set;} = new string[] {"Latvian",
                                                                     "English",
