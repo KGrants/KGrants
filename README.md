@@ -6,7 +6,7 @@
 class WhoAmI
 {
 	public string 	user 		{get;}      = "KGRANTS";
-	public string 	current_work 	{get; set;} = "2nd Line of Fintech App Support";
+	public string 	current_work 	{get; set;} = "IT Solution Developer";
 	public string 	location	{get;}      = "Riga_Latvia";
 	public string[] hobbies 	{get;}      = new string[] {"Basketball",
 						                    "Running",
