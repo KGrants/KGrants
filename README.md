@@ -13,7 +13,8 @@ class WhoAmI
                                                                     "Reading",
 								    "Video Games",
 								    "Board Games",
-                                                                    "Programming"};
+                                                                    "Programming",
+								};
 	public string[] languages 	{get; set;} = new string[] {"Latvian",
                                                                     "English",
                                                                     "Russian",};
