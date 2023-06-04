@@ -12,7 +12,7 @@ class WhoAmI
 						                    "Running",
                                                                     "Reading",
 								    "Video Games",
-								    "Board Games",
+								    "Board Games/chess",
                                                                     "Programming",
 								   };
 	public string[] languages 	{get; set;} = new string[] {"Latvian",
