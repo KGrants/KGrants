@@ -3,7 +3,7 @@
 </div>
 	
 ```C#
-class WhoAmIaaa
+class WhoAmI
 {
 	public string 	user 		{get;}      = "KGRANTS";
 	public string 	current_work 	{get;} 	    = "IT Solution Developer";
