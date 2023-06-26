@@ -1,5 +1,5 @@
 II<div id="header" align="center">
-  <img src="https://github.com/KGrants/KGrants/blob/main/Logo.jpg">aa
+  <img src="https://github.com/KGrants/KGrants/blob/main/Logo.jpg">
 </div>
 	
 ```C#
