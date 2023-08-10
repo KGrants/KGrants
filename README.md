@@ -5,7 +5,7 @@ II<div id="header" align="center">
 ```C#
 class WhoAmI
 {
-	public string 	users 		{get;}      = "KGRANTS";
+	public string 	user 		{get;}      = "KGRANTS";
 	public string 	current_work 	{get;} 	    = "IT Solution Developer";
 	public string 	location	{get;}      = "Riga_Latvia";
 	public string[] hobbies 	{get;}      = new string[] {"Basketball",
