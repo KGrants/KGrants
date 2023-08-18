@@ -1,4 +1,4 @@
-<div id="header" align="center">
+vacation day<div id="header" align="center">
   <img src="https://github.com/KGrants/KGrants/blob/main/Logo.jpg">
 </div>
 	
